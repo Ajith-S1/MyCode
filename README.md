@@ -1,2 +1,2 @@
 # MyCode
-Contains some programs solving some problems
+✨ Contains some programs solving some problems
